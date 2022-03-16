@@ -5,6 +5,13 @@ function Home() {
    <div className='container-fluid'>
     
      <h1>Home Page </h1>
+     <h1>Home Page </h1>
+     <h1>Home Page </h1>
+     <h1>Home Page </h1>
+
+     <h1>Home Page </h1>
+     <h1>Home Page </h1><h1>Home Page </h1>
+     
 
    </div>
    </>
